@@ -24,7 +24,7 @@ function server() {
 #
 # Based on https://github.com/stephenplusplus/dots/blob/master/.bash_profile#L68 by @stephenplusplus
 #
-# Note: subl is already setup as a shortcut to Sublime. Replace with your own editor if different
+# Note: st is already setup as a shortcut to Sublime. Replace with your own editor if different
 #
 # - arg 1 - url|username|repo remote endpoint, username on github, or name of
 #           repository.
@@ -34,17 +34,17 @@ function server() {
 #   $ clone things
 #     .. git clone git@github.com:addyosmani/things.git things
 #     .. cd things
-#     .. subl .
+#     .. st .
 #
 #   $ clone yeoman generator
 #     .. git clone git@github.com:yeoman/generator.git generator
 #     .. cd generator
-#     .. subl .
+#     .. st .
 #
 #   $ clone git@github.com:addyosmani/dotfiles.git
 #     .. git clone git@github.com:addyosmani/dotfiles.git dotfiles
 #     .. cd dots
-#     .. subl .
+#     .. st .
 
 function clone {
   # customize username to your own
