@@ -1,7 +1,3 @@
-# Fer's dotfiles.
-
-[TODO: Add installation steps]
-
 These dotfiles are based on many compilations and a selection/modification of them.
 
 ![iTerm Styling](http://f.cl.ly/items/0A3v2M371j0Q3I1R0f0D/iterm.png)
