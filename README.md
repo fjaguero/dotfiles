@@ -2,6 +2,7 @@ These dotfiles are based on many compilations and a selection/modification of th
 
 ![iTerm Styling](http://f.cl.ly/items/0A3v2M371j0Q3I1R0f0D/iterm.png)
 
+Note: ``.aliases``, ``.functions`` and ``.bash_prompt`` are included in ``.bash_profile``
 
 ## Features
 
