@@ -107,7 +107,7 @@ alias dropbox="~/code/Dropbox-Uploader/dropbox_uploader.sh $1"
 # ------------------------------------------------------------------------------
 
 # Show commits sorted by committer
-git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname) | %(committerdate) | %(authorname)'
+alias gs="git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname) | %(committerdate) | %(authorname)'"
 
 # Undo a `git push`
 alias undopush="git push -f origin HEAD^:master"
